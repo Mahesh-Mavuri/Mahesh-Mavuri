@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
   - [LinkedIn](https://www.linkedin.com/in/maheshmavuri/)
   - [GitHub](https://github.com/Mahesh-Mavuri)
-  - [My Personal Website](https://mahesh-mavuri.github.io/mahesh-mavuri/)
+  - [My Personal Website](https://mahesh-mavuri.github.io/Mahesh-Mavuri/)
