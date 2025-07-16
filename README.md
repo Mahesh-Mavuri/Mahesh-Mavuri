@@ -1,7 +1,7 @@
 ## Hi there 👋
-Myself Mahesh Mavuri, writing some blogs to help my fellow developers.
+Myself Mahesh Mavuri, writing some blogs to help my fellow developers. You can view this better [here](https://mahesh-mavuri.github.io/Mahesh-Mavuri/) if visiting in github.
 
-Here are some of the blogs on my areas of interest.
+Here are some of the blogs on my areas of interest. I have used AI to write these but I can assure that these are validated and tested. Main intention is to document the aspects that I am exploring and documenting for quick reference.
 
 [Mastering JWT Authorization in .NET Core: A Comprehensive Tutorial](https://mahesh-mavuri.github.io/JWTSelfAuth/) - This tutorial explains to create jwt based authentication and authorization with the role based authorization and policy based authorization.
 
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* [LinkedIn](https://www.linkedin.com/in/maheshmavuri/)
+* [GitHub](https://github.com/Mahesh-Mavuri)
+* [My Personal Website](https://mahesh-mavuri.github.io/mahesh-mavuri/)
