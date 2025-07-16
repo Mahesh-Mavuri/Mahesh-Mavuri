@@ -1,4 +1,3 @@
-## Mahesh Mavuri
 Hi there 👋
 Myself Mahesh Mavuri, writing some blogs to help my fellow developers. You can view this better [here](https://mahesh-mavuri.github.io/Mahesh-Mavuri/) if visiting in github.
 
